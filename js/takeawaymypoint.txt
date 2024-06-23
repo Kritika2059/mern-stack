@@ -1,0 +1,23 @@
+shortcut to copy:  alt+shift+down
+shortcut to change every same text atonce: ctrl+d
+
+JS
+    synchronous
+    single threaded
+    blocking language
+
+Datatypes:
+    number: 1,2,1.3 ...
+    boolean: true,false
+    string: anything can be string under double quotation. ("1","a"....)
+
+only number string can be converted to number
+"10" -> 10
+
+boolean
+    true -> 1
+    false -> 0
+    In boolean conversion, all empty are false. Either 0 in number or "" in string
+
+normally string text appears in white color and others in yellow -> with these available extension
+
