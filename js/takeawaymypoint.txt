@@ -20,4 +20,18 @@ boolean
     In boolean conversion, all empty are false. Either 0 in number or "" in string
 
 normally string text appears in white color and others in yellow -> with these available extension
+array is the collection of similar data or different data in js.
+array stores collection of values.
 
+
+
+-OPERATIONS
+
+    the operations can be done between num/num, num/string, string/string
+        1+1=2
+        "1"+"1"="11"
+        1+"1"="11"
+        1+1+"1"+1+1= 2+"1"+1+1= "21"+1+1= "211"+1= "2111"   the operation is done between only two values, it is not executed at once
+
+
+-foEach doesnot produce any data.
